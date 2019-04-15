@@ -18,7 +18,7 @@ This guide is for developers, auditors, architects, system and networking engine
 
 These 10 bullet points are mostly (see below this paragraph) about system and network security and also system and network architecture. As a developer you don't have to be an expert in those -- that's what this guide is for. But as indicated above best is to start thinking about those points early. Please do not just start building it. 
 
-One of the bullet point should not be misunderstood: Patch management is not a techincal point. It's a management process. Lat but not least for technical or information security management who has not been much worried about containerization this document also provides insights about the risks involve.
+One of the bullet point should not be misunderstood: Patch management is not a techincal point. It's a management process. Last but not least for technical or information security management who has not been much worried about containerization this document also provides insights about the risks involve.
 
 ### Structure of this document
 
